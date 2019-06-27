@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{4BBB87C6-6EFE-D8B9-E650-36600AED77DD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Desktop/Scripts/Player.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player Scripts/MovementController.cs" Line="40" Column="94" />
+      <File FileName="Assets/Scripts/Player Scripts/PlayerController.cs" Line="83" Column="12" />
+      <File FileName="Assets/Scripts/Player Scripts/PlayerController.cs" Line="19" Column="5" />
+      <File FileName="../../Desktop/Scripts/Player.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Sammich Game" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Player Scripts" expanded="True">
+                  <Node name="MovementController.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="eff4c763-6f3d-44c3-8478-0c8fdefbc313" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
